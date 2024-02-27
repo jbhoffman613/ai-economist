@@ -77,8 +77,9 @@ pytest==6.2.4
 python-dateutil==2.8.1
 pytz==2021.1
 pyyaml==5.4.1
-# Changed pyzmq from  version 22.0.3 to work with python 3.11
-pyzmq==23.2.1
+# Changed pyzmq to version 22.0.3 to work with python 3.10
+# Changed pyzmq to version 23.2.1 to work with python 3.11
+pyzmq==22.0.3
 qtconsole==5.1.0
 QtPy==1.9.0
 regex==2021.4.4
